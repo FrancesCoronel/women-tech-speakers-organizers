@@ -400,7 +400,7 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - [Dev.to](https://dev.to/lhmzhou) 
 - Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting 
 - Location: Miami/Fort Lauderdale, FL, USA
-
+- Languages besides English: Portuguese, Spanish, a dash of French
 
 --
 
