@@ -395,6 +395,13 @@ Code of Conduct - If anyone is reported as malicious or making others feel uncom
 - Topics - Women in Tech, impostor syndrome, Javascript, Accessibility, Front End, 
 - Location - Dallas, TX, US
 
+##### Linda Zhou 
+- [@lhmzhou](https://twitter.com/lhmzhou) 
+- [Dev.to](https://dev.to/lhmzhou) 
+- Topics: Golang, React, Ruby/Rails, GraphQL, Elasticsearch, Rust, Flutter, Serverless, Mobile Voting 
+- Location: Miami/Fort Lauderdale, FL, USA
+
+
 --
 
 ### Canada
